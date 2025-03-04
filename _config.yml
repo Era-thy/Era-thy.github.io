@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username:cai
+#zhihu_username:cai
 github_username: Era-thy
 #linkedin_username:  firstname-lastname-idxxxx
 
